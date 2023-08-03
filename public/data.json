@@ -1,0 +1,308 @@
+[
+  {
+    "name": "AMD Athlon 200GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
+    "price": 90,
+    "category": "CPU / Processor",
+    "features": [
+      "Brand: AMD",
+      "Model: Athlon 200GE",
+      "Base Clock Speed 3.2GHz",
+      "Package AM4",
+      "PCI Express PCIe 3.0",
+      "3 Years (No Warranty for Fan or Cooler)"
+    ],
+    "featured": false,
+    "desc": "AMD Athlon Pro 200GE is a dual-core Processor with SMT-enabled, so it has four threads active and 512 KB L2 cache per core, and 4 MB shared L3 cache. The base clock is 3.20 GHz. The primary limitation is PCI-Express 3.0 at x8 for graphics. Raven Ridge is an unlocked processor, that enabled multiplier we managed to get a proper 3.9 GHz out of the two cores at a voltage of 1.4 volts. One thing you do need to keep in mind is that the memory will be restricted to 2667 MHz maximum (dual-channel).",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Himel",
+        "individualRating": 5,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Ashik",
+        "individualRating": 4,
+        "review": "Not value of money"
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Emon",
+        "individualRating": 5,
+        "review": "Good product ..."
+      }
+    ],
+    "status": "Out of Stock"
+  },
+  {
+    "name": "Intel Core i9-12900KS 12th Gen Alder Lake Processor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i9-12900ks/i9-12900ks-01-500x500.jpg",
+    "price": 750,
+    "category": "CPU / Processor",
+    "features": [
+      "Brand: Intel",
+      "Model: Core i9-12900KS",
+      "Clock Speed: 2.40 GHz up to 5.20 GHz",
+      "Cache: 30 MB, Socket: LGA 1700",
+      "CPU Cores: 16, CPU Threads: 24",
+      "GPU: Intel UHD Graphics 770"
+    ],
+    "featured": true,
+    "desc": "The Intel Core i9-12900KS 12th Gen Processor comes with 16 cores (eight Performance-cores and eight Efficient-cores) and 24 threads, and up to 5.5 GHz max turbo frequency, 150W processor base power, and 30MB Intel Smart Cache for even more gaming power and performance. Based on Intelâ€™s 12th Gen performance hybrid architecture, this processor can hit 5.5 GHz on up to two cores for the first time, giving the most extreme gamers the ability to maximize performance. The Intel Core i9-12900KS features Intel Adaptive Boost Technology for improved gaming performance by opportunistically allowing higher multi-core turbo frequencies. It comes with 2 memory channels and offers support for up to DDR5 4800 MT/s and DDR4 3200 MT/s RAM. The Core i9-12900KS processor allows gamers and overclocking enthusiasts to take performance to the next level. Based on its max turbo frequency of 5.5 GHz, it is the worldâ€™s fastest desktop processor. The CPU comes with Intel UHD Graphics 770 and it has a base frequency of 300 MHz with a dynamic frequency of 1.55 GHz. This processor offers eDP 1.4b, DP 1.4a, and HDMI 2.1 graphics output options. The latest Intel 12th Gen i9-12900KS Processor comes with 3 years of warranty (No Warranty for Fan or Cooler).",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Himel",
+        "individualRating": 5,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Ashik",
+        "individualRating": 5,
+        "review": "Super product"
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Himel",
+        "individualRating": 5,
+        "review": "Premium product ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "AMD Ryzen 9 7950X Processor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x/ryzen-9-7950x-01-500x500.webp",
+    "price": 690,
+    "category": "CPU / Processor",
+    "features": [
+      "Brand: AMD",
+      "Model: Ryzen 9 7950X",
+      "Clock Speed: 4.5GHz Up to 5.7GHz",
+      "L2 Cache: 16MB, L3 Cache: 64MB",
+      "Cores: 16, Threads: 32",
+      "Socket: AM5"
+    ],
+    "featured": false,
+    "desc": "The AMD Ryzen 9 7950X is a 16-core CPU featuring Zen4 microarchitecture. It reportedly features two Durango CCDs with 16 cores codenamed “Persephone”. The leaker claims that the battle for the top CPUs will be between 7950X’s 5.85 GHz and i9-13900K supposedly boosting up to 5.8 GHz with Thermal Velocity Boost. The sample that was described by “Venom” is not the top bin CPU.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Afzal",
+        "individualRating": 3,
+        "review": "High price than quality ..."
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Ashik",
+        "individualRating": 4,
+        "review": "Not value of money "
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Himel",
+        "individualRating": 5,
+        "review": "good product ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Asus PRIME A520M-A II AM4 micro ATX Motherboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-a520m-a-ii/prime-a520m-a-ii-01-500x500.webp",
+    "price": 110,
+    "category": "Motherboard",
+    "features": [
+      "Brand: Asus",
+      "Model: PRIME A520M-A II",
+      "CPU: AMD AM4 Socket for AMD Ryzen 5000 Series/ 4000 G-Series/ 3000 Series",
+      "Output: 1 x DisplayPort, 1 x D-Sub, 1 x HDMITM port",
+      "Features: 5X Protection III"
+    ],
+    "featured": true,
+    "desc": "The Asus PRIME A520M-A II is a micro ATX motherboard designed for the AMD A520 chipset, specifically for Ryzen AM4 processors. It features a range of connectivity options and support for various components to meet the needs of both daily users and DIY PC builders. The motherboard supports AMD AM4 socket processors, including the Ryzen 5000 Series, 4000 G-Series, and 3000 Series desktop processors. This provides users with a wide range of options when it comes to choosing a compatible CPU. To ensure stable performance and prevent overheating, the Asus PRIME A520M-A II incorporates comprehensive cooling features. These include a VRM heatsink, PCH heatsink, and Fan Xpert 2+ technology, which helps to optimize fan speeds and keep the system cool during intense usage. The motherboard offers an M.2 slot, which supports high-speed NVMe storage for faster data transfer. It also includes 1 Gb Ethernet for reliable network connectivity and USB 3.2 Gen 1 Type-A ports for fast data transfer with compatible devices. The Asus PRIME A520M-A II is its supports for Aura Sync RGB lighting. The motherboard includes onboard RGB headers and addressable Gen 2 headers, allowing users to connect RGB LED strips and synchronize the lighting effects with other Aura Sync-capable hardware. The Asus PRIME A520M-A II is a well-engineered motherboard that provides a solid foundation for building a Ryzen-based system. With its power design, cooling solutions, and performance tuning options, it offers a range of features to enhance the overall computing experience.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Fahamid",
+        "individualRating": 5,
+        "review": "Good quality .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Rony",
+        "individualRating": 5,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Rasel",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Corsair DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 5600MHz C36 AMD EXPO RAM Kit",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb-ddr5/dominator-platinum-rgb-01-500x500.webp",
+    "price": 230,
+    "category": "RAM",
+    "features": [
+      "Brand: Corsair",
+      "MPN: CMT32GX5M2B5600Z36",
+      "Model: DOMINATOR PLATINUM RGB",
+      "Capacity: 32GB (2x16GB)",
+      "Frequency: DDR5 5600MHz",
+      "Form Factor: 288-Pin UDIMM",
+      "Voltage & Cas Latency: 1.25V/40-40-40-77"
+    ],
+    "featured": true,
+    "desc": "The Corsair DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 5600MHz C36 AMD EXPO RAM Kit is a high-performance memory kit designed for gaming enthusiasts and content creators. With the advent of DDR5 technology, this RAM kit offers unprecedented processing speed, allowing your high-end CPU to access data quickly and efficiently. No matter the task at hand, whether it's gaming, content creation, multitasking, or even opening numerous browser tabs, this RAM kit ensures that your gaming PC can handle complex tasks faster than ever before. It provides the power and control you need for demanding applications. The DOMINATOR PLATINUM RGB RAM kit features built-in voltage regulation, which, when combined with the iCUE software control, allows for easier and more precise voltage output adjustments. This feature contributes to more stable overclocking capabilities, enabling you to push your system's performance to its limits while maintaining stability. This RAM kit is the ability to save your own AMD EXPO profiles through the iCUE software. This eliminates the need for manually adjusting performance settings each time you switch tasks or applications. You can easily customize and tailor your setting profiles based on specific apps or tasks, enhancing overall efficiency and saving you time. Corsair ensures wide compatibility with their memory finder tool. This tool is integrated directly into the memory page, offering a user-friendly interface to help you find the best memory kit that suits your system's configuration. It provides a range of options to ensure compatibility, ensuring you are paired up with the most suitable memory kit for your needs. The Corsair DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 5600MHz C36 AMD EXPO RAM Kit delivers exceptional performance, stability, and customization options. It is a reliable choice for users seeking top-tier memory modules to optimize their gaming and content creation experiences.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Imran",
+        "individualRating": 5,
+        "review": "Good quality .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Yousuf",
+        "individualRating": 5,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "ASUS ROG THOR 850P 80+ Platinum Power Supply",
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
+    "price": 230,
+    "category": "Power Supply Unit",
+    "features": [
+      "Brand: Asus",
+      "MPN: CMT32GX5M2B5600Z36",
+      "Model: ROG THOR 850P",
+      "80+ Platinum certification for energy efficiency",
+      "Built with 100% Japanese capacitors",
+      "OLED Power Display",
+      "IP5X dust-resistance"
+    ],
+    "featured": true,
+    "desc": "The ROG Thor 850W Platinum Power Supply Unit is the firs PSU launched by ASUS and it is packed with innovative ideas. It stands out with Aura Sync and an OLED display. ASUS Aura Sync is an illumination ecosystem that lets you synchronize lighting effects across your gaming rig, components, and peripherals. The ROG Thor lets you take full control with internal Aura RGB LEDs that connect to the 4-1 addressable RGB header on select motherboards. It is the first PC PSU in the world to feature an integrated OLED panel, offering a real-time display of power draw. Now you can see at a glance how much juice your rig is using. It has been equipped with a 135mm patented Wing-blade fan to maximize component lifespan. IP5X dust-resistance keeps it spinning freely and 0dB technology utilizes thermal sensors to allow the fan to switch off completely at lower wattages. The integrated ROG heatsinks have 2x more volume than traditional designs, resulting in 20% lower temperatures inside the ROG Thor 850W Platinum. It has an 80+ Platinum certification for energy efficiency, built with 100% Japanese capacitors for stability and durability. The sleeved cables include one 24-pin, two 6+2-pin PCI-e cables, and two 8-pin CPU cables. It ensures reliability and comes with a 10-year warranty.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 5,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Gigabyte 480GB 2.5'' Internal Solid State Drive (SSD)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/component/ssd/gigabyte/480gb/480gb-1-500x500.jpg",
+    "price": 55,
+    "category": "Storage Device",
+    "features": [
+      "Brand: Gigabyte",
+      "MPN: CMT32GX5M2B5600Z36",
+      "Model: Gigabyte 480GB",
+      "Form Factor: 2.5-inch internal SSD",
+      "Interface: SATA 6.0Gb/s",
+      "Total Capacity: 480GB",
+      "Warranty: Limited 3-years"
+    ],
+    "featured": true,
+    "desc": "Gigabyte is the name of trust. Now this time it comes with a new product called SSD with is totally reliable. It has high data transferring speed and enhanced endurance, which provide durable MTBF up of 1.8 million hours. Its interface type is SATA 6.0 GB/s with NAND Flash technology. Its Read speed Up to 550 MB/s and write speed up to Up to 480 MB/s. Its Power Consumption in Idle mode is 170mW.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 4,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Xiaomi Mi 34 inch 144Hz FreeSync Curved Monitor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/redmi-34-curved/redmi-34-curved-500x500.jpg",
+    "price": 380,
+    "category": "Monitor",
+    "features": [
+      "Brand: Xiaomi",
+      "Model: Xiaomi Mi 34 144Hz FreeSync Curved",
+      "Resolution: WQHD (3440x1440)",
+      "Display: VA, 144Hz, 4ms",
+      "Ports: HDMI, DP, Audio Jack",
+      "Features: Low Blue Light"
+    ],
+    "featured": true,
+    "desc": "Gigabyte is the name of trust. Now this time it comes with a new product called SSD with is totally reliable. It has high data transferring speed and enhanced endurance, which provide durable MTBF up of 1.8 million hours. Its interface type is SATA 6.0 GB/s with NAND Flash technology. Its Read speed Up to 550 MB/s and write speed up to Up to 480 MB/s. Its Power Consumption in Idle mode is 170mW.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 4,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  }
+]
