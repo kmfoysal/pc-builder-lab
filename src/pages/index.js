@@ -21,7 +21,7 @@ export default function Home({allProducts}) {
 
       <HeroBanner />
 
-      <div className="grid grid-cols-3 justify-center justify-items-center  ">
+      <div className="grid grid-cols-3 justify-center justify-items-center p-[8%] gap-10">
       {
         allProducts?.map((product)=> <ProductCard key={product?._id} product={product} />)
       }
