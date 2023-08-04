@@ -1,7 +1,7 @@
 const RootLayout = ({ children }) => {
   return (
     <>
-      <nav className="navbar bg-orange-500 text-white">
+      <nav className="navbar bg-orange-500 text-white px-[10%]">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -93,7 +93,7 @@ const RootLayout = ({ children }) => {
 
       <div>{children}</div>
 
-      <footer className=" text-center bg-orange-500 py-2 text-gray-600">&copy; 2023 | All Right Reserved.</footer>
+      <footer className=" text-center bg-orange-500 py-2 text-gray-600">&copy; PC BUILDER LAB 2023 | All Right Reserved.</footer>
     </>
   );
 };

@@ -4,6 +4,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
     "price": 90,
     "category": "CPU / Processor",
+    "categoryUrl": "processor",
     "features": [
       "Brand: AMD",
       "Model: Athlon 200GE",

@@ -1,12 +1,13 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-import Head from 'next/head'
-import HeroBanner from '@/components/UI/HeroBanner'
-import ProductCard from '@/components/UI/ProductCard'
+import FeaturedCategory from "@/components/UI/FeaturedCategory";
+import FeaturedProducts from "@/components/UI/FeaturedProducts";
+import HeroBanner from "@/components/UI/HeroBanner";
+import ProductCard from "@/components/UI/ProductCard";
+// import { Inter } from 'next/font/google'
+import Head from "next/head";
 
-const inter = Inter({ subsets: ['latin'] })
+// const inter = Inter({ subsets: ['latin'] })
 
-export default function Home({allProducts}) { 
+export default function Home({ allProducts }) {
   return (
     <>
       <Head>
@@ -21,20 +22,17 @@ export default function Home({allProducts}) {
 
       <HeroBanner />
 
-      <div className="grid grid-cols-3 justify-center justify-items-center p-[8%] gap-10">
-      {
-        allProducts?.map((product)=> <ProductCard key={product?._id} product={product} />)
-      }
-      </div>
+      <FeaturedProducts allProducts={allProducts} />
+
+      <FeaturedCategory />
+      
     </>
-  )
+  );
 }
 
-
 export const getStaticProps = async () => {
+  const res = await fetch("http://localhost:3000/api/products");
 
-  const res = await fetch("http://localhost:3000/api/products"); 
-  
   const data = await res.json();
   // console.log(data);
   return {
