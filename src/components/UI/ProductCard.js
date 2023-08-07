@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const ProductCard = ({ product }) => {
   // Calculate the sum of individualRating values
@@ -51,7 +52,9 @@ const ProductCard = ({ product }) => {
         <h2 className=" text-2xl font-semibold">${product?.price}</h2>
 
         <div className="card-actions justify-end">
-          <button className="btn btn-primary w-full">View Details</button>
+        <Link href={`/products/${product._id}`}>
+            <button className="btn btn-primary w-full">View Details</button>
+        </Link>
         </div>
       </div>
     </div>

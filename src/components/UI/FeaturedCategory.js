@@ -25,12 +25,12 @@ const FeaturedCategory = () => {
         categoryName: "Power Supply Unit",
         categoryFeaturedImage:
           "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
-        categoryUrl: "",
+        categoryUrl: "power-supply-unit",
       },{
         categoryName: "Storage Device",
         categoryFeaturedImage:
           "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/ironwolf-125-500gb/ironwolf-125-500gb-01-500x500.webp",
-        categoryUrl: "power-supply-unit",
+        categoryUrl: "storage",
       },{
         categoryName: "Monitor",
         categoryFeaturedImage:

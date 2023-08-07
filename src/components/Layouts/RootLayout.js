@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const RootLayout = ({ children }) => {
   return (
     <>
@@ -43,40 +45,34 @@ const RootLayout = ({ children }) => {
               </li>
             </ul>
           </div>
-          <a className="normal-case text-lg">PC BUILDER LAB</a>
+          <Link href='/' className="normal-case text-lg">PC BUILDER LAB</Link>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <a className=" hover:text-white hover:bg-transparent">Products</a>
+              <Link href='/products' className=" hover:text-white hover:bg-transparent">Products</Link>
             </li>
             <li tabIndex={0}>
               <details>
                 <summary>Categories</summary>
                 <ul className="p-2 bg-orange-400 min-w-[200px]">
                   <li>
-                    <a>CPU / Processor</a>
+                    <Link href='/categories/processor'>CPU / Processor</Link>
                   </li>
                   <li>
-                    <a>Motherboard</a>
+                    <Link href='/categories/motherboard'>Motherboard</Link>
                   </li>
                   <li>
-                    <a>Motherboard</a>
+                    <Link href='/categories/ram'>RAM</Link>
                   </li>
                   <li>
-                    <a>RAM</a>
+                    <Link href='/categories/power-supply-unit'>Power Supply Unit</Link>
                   </li>
                   <li>
-                    <a>Power Supply Unit</a>
+                    <Link href='/categories/storage'>Storage Device</Link>
                   </li>
                   <li>
-                    <a>Storage Device</a>
-                  </li>
-                  <li>
-                    <a>Monitor</a>
-                  </li>
-                  <li>
-                    <a>Others</a>
+                    <Link href='/categories/monitor'>Monitor</Link>
                   </li>
                 </ul>
               </details>

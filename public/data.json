@@ -43,6 +43,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i9-12900ks/i9-12900ks-01-500x500.jpg",
     "price": 750,
     "category": "CPU / Processor",
+    "categoryUrl": "processor",
     "features": [
       "Brand: Intel",
       "Model: Core i9-12900KS",
@@ -81,6 +82,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x/ryzen-9-7950x-01-500x500.webp",
     "price": 690,
     "category": "CPU / Processor",
+    "categoryUrl": "processor",
     "features": [
       "Brand: AMD",
       "Model: Ryzen 9 7950X",
@@ -119,6 +121,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-a520m-a-ii/prime-a520m-a-ii-01-500x500.webp",
     "price": 110,
     "category": "Motherboard",
+    "categoryUrl": "motherboard",
     "features": [
       "Brand: Asus",
       "Model: PRIME A520M-A II",
@@ -156,6 +159,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb-ddr5/dominator-platinum-rgb-01-500x500.webp",
     "price": 230,
     "category": "RAM",
+    "categoryUrl": "ram",
     "features": [
       "Brand: Corsair",
       "MPN: CMT32GX5M2B5600Z36",
@@ -195,6 +199,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
     "price": 230,
     "category": "Power Supply Unit",
+    "categoryUrl": "power-supply-unit",
     "features": [
       "Brand: Asus",
       "MPN: CMT32GX5M2B5600Z36",
@@ -234,6 +239,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/component/ssd/gigabyte/480gb/480gb-1-500x500.jpg",
     "price": 55,
     "category": "Storage Device",
+    "categoryUrl": "storage",
     "features": [
       "Brand: Gigabyte",
       "MPN: CMT32GX5M2B5600Z36",
@@ -273,6 +279,7 @@
     "image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/redmi-34-curved/redmi-34-curved-500x500.jpg",
     "price": 380,
     "category": "Monitor",
+    "categoryUrl": "monitor",
     "features": [
       "Brand: Xiaomi",
       "Model: Xiaomi Mi 34 144Hz FreeSync Curved",
