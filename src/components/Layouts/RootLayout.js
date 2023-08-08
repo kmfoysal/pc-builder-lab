@@ -83,7 +83,7 @@ const RootLayout = ({ children }) => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">PC BUILD</a>
+          <Link href='/pc-builder' className="btn">PC BUILD</Link>
         </div>
       </nav>
 
