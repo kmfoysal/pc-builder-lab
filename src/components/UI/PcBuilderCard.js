@@ -5,6 +5,7 @@ import {
   addProcessor,
   addRam,
   addStorage,
+  removeFromBuilder,
 } from "@/redux/features/addToBuilderSlice";
 import Image from "next/image";
 import { useRouter } from "next/router";
@@ -13,6 +14,8 @@ import { useDispatch } from "react-redux";
 const PcBuilderCard = ({ builderItem }) => {
   const dispatch = useDispatch();
   const router = useRouter();
+
+  console.log(router);
 
   const handleAddToBuilder = (builderItem) => {
     switch (builderItem?.categoryUrl) {
@@ -41,6 +44,10 @@ const PcBuilderCard = ({ builderItem }) => {
     router.push("/pc-builder");
   };
 
+  const handleRemove = (builderItem) => {
+    dispatch(removeFromBuilder(builderItem.categoryUrl));
+  };
+
   return (
     <div className="card w-full card-side bg-base-100 shadow-xl overflow-hidden">
       <figure>
@@ -54,12 +61,21 @@ const PcBuilderCard = ({ builderItem }) => {
         <div className="card-actions justify-between items-center">
           <h5 className=" text-2xl font-semibold">${builderItem?.price}</h5>
 
-          <button
-            className="btn btn-primary"
-            onClick={() => handleAddToBuilder(builderItem)}
-          >
-            Add To Builder
-          </button>
+          {router.pathname === "/pc-builder" ? (
+            <button
+              className="btn btn-warning"
+              onClick={() => handleRemove(builderItem)}
+            >
+              Remove
+            </button>
+          ) : (
+            <button
+              className="btn btn-primary"
+              onClick={() => handleAddToBuilder(builderItem)}
+            >
+              Add To Builder
+            </button>
+          )}
         </div>
       </div>
     </div>

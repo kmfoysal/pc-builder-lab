@@ -1,7 +1,6 @@
 import FeaturedCategory from "@/components/UI/FeaturedCategory";
 import FeaturedProducts from "@/components/UI/FeaturedProducts";
 import HeroBanner from "@/components/UI/HeroBanner";
-import ProductCard from "@/components/UI/ProductCard";
 // import { Inter } from 'next/font/google'
 import Head from "next/head";
 
@@ -31,6 +30,7 @@ export default function Home({ allProducts }) {
 }
 
 export const getStaticProps = async () => {
+  
   const res = await fetch("http://localhost:5000/products");
 
   const data = await res.json();

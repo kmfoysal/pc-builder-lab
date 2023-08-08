@@ -32,8 +32,41 @@ const builderSlice = createSlice({
     addMonitor: (state, action) => {
       state.monitor = action.payload;
     },
+
+    removeFromBuilder: (state, action) => {
+      switch (action.payload.categoryUrl) {
+        case "processor":
+          state.processor = null;
+          break;
+        case "motherboard":
+          state.motherboard = null;
+          break;
+        case "ram":
+          state.ram = null;
+          break;
+        case "powerSupply":
+          state.powerSupply = null;
+          break;
+        case "storage":
+          state.storage = null;
+          break;
+        case "monitor":
+          state.monitor = null;
+          break;
+        default:
+          break;
+      }
+    },
   },
 });
 
-export const { addProcessor, addMotherboard, addMonitor, addPowerSupply, addRam, addStorage } = builderSlice.actions;
+export const {
+  addProcessor,
+  addMotherboard,
+  addMonitor,
+  addPowerSupply,
+  addRam,
+  addStorage,
+  removeFromBuilder,
+} = builderSlice.actions;
 export default builderSlice.reducer;
