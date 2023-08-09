@@ -8,7 +8,9 @@ export default function App({ Component, pageProps }) {
 
   return (
     <Provider store={store}>
-      <RootLayout>{getLayout(<Component {...pageProps} />)}</RootLayout>
+      <RootLayout>
+        <div className="min-h-[100vh]">{getLayout(<Component {...pageProps} />)}</div>
+      </RootLayout>
     </Provider>
   );
 }

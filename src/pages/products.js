@@ -16,7 +16,7 @@ const Products = ({allProducts}) => {
 export default Products;
 
 export const getStaticProps = async () => {
-    const res = await fetch("http://localhost:5000/products");
+    const res = await fetch("https://pc-builder-lab-server.onrender.com/products");
   
     const data = await res.json();
     

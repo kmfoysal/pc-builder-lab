@@ -155,6 +155,82 @@
     "status": "In Stock"
   },
   {
+    "name": "Gigabyte H410M S2H 10th Gen Micro ATX Motherboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h410m-s2h/h410m-s2h-500x500.jpg",
+    "price": 140,
+    "category": "Motherboard",
+    "categoryUrl": "motherboard",
+    "features": [
+      "Brand: Gigabyte",
+      "Model: Gigabyte H410M S2H",
+      "Intel Socket LGA1200 for 10th Gen Processors",
+      "Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs",
+      "Ultra-Fast M.2 with PCIe Gen3 X2 & SATA Interface"
+    ],
+    "featured": false,
+    "desc": "Realtek 8118 LAN is a high performance and friendly network chip for gaming players with automatic bandwidth allocation to ensure the highest network priority of the game or application. It can provide users the most comprehensive features and the fastest and smoothest Internet experience. GIGABYTE Motherboards are focused on delivering M.2 technology to enthusiasts who want to maximize their systemâ€™s potential. Enjoy true HD display capability using the most commonly integrated digital output technologies on todayâ€™s HD displays and TVs. With Smart Fan, 5 users can ensure that their gaming PC can maintain its performance while staying cool. Smart Fan 5 allows users to interchange their fan headers to reflect different thermal sensors at different locations on the motherboard. Not only that, with Smart Fan, but 5 more hybrid fan headers that support both PWM and Voltage mode fans have also been introduced to make the motherboard more liquid cooling friendly. Achieve fan silence. With Fan Stop, map any fan to stop completely when temperatures drop below a specified threshold. Which fan stops, based on readings from which sensor, and at what temperatureâ€”all of it can be customized to your liking. GIGABYTE motherboards use high-end audio capacitors. These high-quality capacitors help deliver high resolution and high fidelity audio to provide the most realistic sound effects for gamers. GIGABYTE motherboards feature an audio noise guard that essentially separates the boardâ€™s sensitive analog audio components from potential noise pollution at the PCB level. Sulfur compounds in the air can penetrate tiny onboard resistors creating chemical change and causing these resistors to open or short. If either of these occurs the motherboard will fail to function. By equipping resistors with an Anti-Sulfur Design GIGABYTE gives Ultra Durable Motherboards a whole new meaning. GIGABYTE motherboards also feature special anti-surge IC that protect your motherboard, helping to ensure that your PC is equipped to deal with any potentially irregular electrical spikes. There is nothing more harmful to the longevity of your PC than moisture, and most parts of the world experience moisture in the air as humidity at some point during the year. GIGABYTE motherboards have been designed to make sure that humidity is never an issue, incorporating a new Glass Fabric PCB technology that repels moisture caused by humid and damp conditions. Glass Fabric PCB technology uses a new PCB material which reduces the amount of space between the fiber weave, making it much more difficult for moisture to penetrate compared to traditional motherboard PCBs. This offers much better protection from short circuits and system malfunction caused by humid and damp conditions. GIGABYTE motherboards use Low RDS(on) MOSFETs which reduce energy wastage through unnecessary residual heat dissipation. This all amounts to tangible energy savings which are beneficial for both end-users and the environment without impacting system performance. The BIOS is essential for users during the initial setup to allow for the most optimal settings. With a new GUI and easier to use functionalities, GIGABYTE has been able to reinvent the BIOS to give users a better experience while setting up their new system.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Fahamid",
+        "individualRating": 4,
+        "review": "Good quality .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Rony",
+        "individualRating": 5,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Rasel",
+        "individualRating": 4,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "MSI H510M PRO Intel 10th Gen and 11th Gen Micro-ATX Motherboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/h510m-pro/h510m-pro-01-500x500.jpg",
+    "price": 120,
+    "category": "Motherboard",
+    "categoryUrl": "motherboard",
+    "features": [
+      "Brand: MSI",
+      "Model: H510M PRO",
+      "Supports 10th Gen Intel Core, 11th Gen, Pentium Gold & Celeron processors",
+      "DDR4 Memory, up to 3200(Max) MHz",
+      "LGA 1200 socket"
+    ],
+    "featured": false,
+    "desc": "The MSI PRO series helps users work smarter by delivering an efficient and productive experience. Featuring stable functionality and high-quality assembly, PRO series motherboards provide not only optimized professional workflows but also less troubleshooting and longevity. MSI H510M PRO Intel 10th Gen and 11th Gen Micro-ATX Motherboard supports 10th Gen Intel Core, 11th Gen Intel Core, Pentium Gold and Celeron processors for LGA 1200 socket, DDR4 Memory, up to 3200(Max) MHz. The Motherboard featured with premium layout and digital power design to support more cores and provide better performance, DDR4 Boost: Advanced technology to deliver pure data signals for the best performance and stability, Lightning Fast Experience: PCIe 4.0. It is Protecting VGA cards against bending and EMI for better performance, stability and strength. Here, MSI lightning Gen 4 PCI-E is the latest and the fastest PCI-E data transfer solution with 64GB/s of transfer bandwidth that has doubled compared to its previous generation. PCIe 4.0 maintains both backward and forward compatibility with older and newer specifications. It is Optimized by steel armor design, your motherboards can support the weight of heavy graphics cards. The Detecting CPU & GPU temperatures and automatically adjusting fan duty of system fans to a proper value by adopting MSI AI ENGINE. The latest MSI H510M PRO Intel 10th Gen and 11th Gen Micro-ATX Motherboard has 03 years warranty.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Fahamid",
+        "individualRating": 4,
+        "review": "Good quality .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Rony",
+        "individualRating": 5,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Rasel",
+        "individualRating": 4,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
     "name": "Corsair DOMINATOR PLATINUM RGB 32GB (2x16GB) DDR5 5600MHz C36 AMD EXPO RAM Kit",
     "image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb-ddr5/dominator-platinum-rgb-01-500x500.webp",
     "price": 230,
@@ -195,6 +271,124 @@
     "status": "In Stock"
   },
   {
+    "name": "Apacer Panther Rage 16GB DDR4 RGB 2666MHZ Desktop RAM",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/panther-rage-16gb-ddr4-2666mhz/-panther-rage-16gb-ddr4-2666mhz-01-500x500.jpg",
+    "price": 90,
+    "category": "RAM",
+    "categoryUrl": "ram",
+    "features": [
+      "Brand: Apacer",
+      "Model: Panther Rage DDR4 RGB 2666MHZ",
+      "Capacity: 16GB, RGB lighting effect",
+      "Frequency: 2666MHz, PIN: 288-pin",
+      "Memory Architecture: x8 FBGA DRAM chip",
+      "Voltage & Cas Latency: 1.2V/16-18-18-38"
+    ],
+    "featured": false,
+    "desc": "The Panther Rage 16GB DDR4 2666MHZ Desktop RAM from Apacer Panther Rage DDR4 has developed from a single-light LED to a flashy RGB since its previous form. Panther's prism-like teeth become more visible when very translucent light is used. The LED light shines evenly thanks to Apacer's proprietary light-homogenizing technology.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Imran",
+        "individualRating": 3,
+        "review": "Good quality .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Yousuf",
+        "individualRating": 4,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Apacer Panther Rage 16GB DDR4 RGB 2666MHZ Desktop RAM",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/panther-rage-16gb-ddr4-2666mhz/-panther-rage-16gb-ddr4-2666mhz-01-500x500.jpg",
+    "price": 90,
+    "category": "RAM",
+    "categoryUrl": "ram",
+    "features": [
+      "Brand: Apacer",
+      "Model: Panther Rage DDR4 RGB 2666MHZ",
+      "Capacity: 16GB, RGB lighting effect",
+      "Frequency: 2666MHz, PIN: 288-pin",
+      "Memory Architecture: x8 FBGA DRAM chip",
+      "Voltage & Cas Latency: 1.2V/16-18-18-38"
+    ],
+    "featured": false,
+    "desc": "The Panther Rage 16GB DDR4 2666MHZ Desktop RAM from Apacer Panther Rage DDR4 has developed from a single-light LED to a flashy RGB since its previous form. Panther's prism-like teeth become more visible when very translucent light is used. The LED light shines evenly thanks to Apacer's proprietary light-homogenizing technology.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Imran",
+        "individualRating": 3,
+        "review": "Good quality .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Yousuf",
+        "individualRating": 4,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "TEAM T-FORCE DELTA RGB 32GB (16GBx2) 7600MHz DDR5 Gaming RAM",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/panther-rage-16gb-ddr4-2666mhz/-panther-rage-16gb-ddr4-2666mhz-01-500x500.jpg",
+    "price": 390,
+    "category": "RAM",
+    "categoryUrl": "ram",
+    "features": [
+      "Brand: TEAM",
+      "MPN: FF3D532G7600HC36DDC01",
+      "Model: T-FORCE DELTA RGB DDR5",
+      "RGB Colors & 120° Ultra-Wide Lighting",
+      "Supports Intel XMP3.0 for One-Click Overclocking",
+      "Strengthened PMIC Cooling Design",
+      "Latency: CL36-46-46-84 1.4V"
+    ],
+    "featured": false,
+    "desc": "The Panther Rage 16GB DDR4 2666MHZ Desktop RAM from Apacer Panther Rage DDR4 has developed from a single-light LED to a flashy RGB since its previous form. Panther's prism-like teeth become more visible when very translucent light is used. The LED light shines evenly thanks to Apacer's proprietary light-homogenizing technology.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Imran",
+        "individualRating": 3,
+        "review": "Good quality .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Yousuf",
+        "individualRating": 4,
+        "review": "Good product ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
     "name": "ASUS ROG THOR 850P 80+ Platinum Power Supply",
     "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
     "price": 230,
@@ -217,6 +411,86 @@
         "reviewId": 1,
         "reviewerName": "Mr. Mostak",
         "individualRating": 5,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Antec HCG 850 EC Gold High Current Gamer Gold Series 850W Power supply",
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
+    "price": 230,
+    "category": "Power Supply Unit",
+    "categoryUrl": "power-supply-unit",
+    "features": [
+      "Brand: Antec",
+      "MPN: CMT32GX5M2B5600Z36",
+      "Model: Antec HCG 850 EC",
+      "80+ Platinum certification for energy efficiency",
+      "Built with 100% Japanese capacitors",
+      "OLED Power Display",
+      "IP5X dust-resistance"
+    ],
+    "featured": false,
+    "desc": "Antec HCG 850 EC Gold High Current Gamer Gold Series 850W Power supply offers guaranteed 850W of Continuous Power from Antec. Thanks to high-quality Japanese capacitors and Active PFC, the latest generation of High Current Gamer Gold power supply provides unsurpassed stability and 80 PLUS Gold-certified efficiency. Advanced thermal control with Zero RPM mode allows for the best mix of silence and cooling, and a quiet 120 mm fluid dynamic bearing fan rounds off the package. The CircuitShield protection suite ensures that the electricity delivered to your system is safe and reliable in any situation. High-performance Japanese capacitors ensure the tightest DC stability and regulation, for reliability that you and your system can count on.850g The whisper-quiet, fluid-dynamic bearing fan provides high airflow with the durability and longevity that is a signature of Antec quality. The Antec HCG 850 EC Gold Power Supply features 10 years of warranty.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 4,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Gamdias Kratos M1-750B 750W 80 Plus Bronze ARGB Power Supply",
+    "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/asus/rog-thor-850p/rog-thor-850p-box-500x500.jpg",
+    "price": 70,
+    "category": "Power Supply Unit",
+    "categoryUrl": "power-supply-unit",
+    "features": [
+      "Brand: Gamdias",
+      "MPN: CMT32GX5M2B5600Z36",
+      "Model: M1-750B",
+      "80+ Platinum certification for energy efficiency",
+      "Built with 100% Japanese capacitors",
+      "OLED Power Display",
+      "IP5X dust-resistance"
+    ],
+    "featured": false,
+    "desc": "The Gamdias Kratos M1-750B 750W RGB Power Supply is a high-quality, ultra-quiet fan with an adjustable ARGB fan built-in. While retaining a safe and long-lasting power supply unit, it achieves 80 PLUS Bronze efficiency, considerably decreasing noise and operating costs.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 4,
         "review": "Powerful .. "
       },
       {
@@ -275,6 +549,84 @@
     "status": "In Stock"
   },
   {
+    "name": "PNY CS900 120GB 2.5 SATA III Internal SSD",
+    "image": "https://www.startech.com.bd/image/cache/catalog/component/ssd/gigabyte/480gb/480gb-1-500x500.jpg",
+    "price": 80,
+    "category": "Storage Device",
+    "categoryUrl": "storage",
+    "features": [
+      "Brand: PNY",
+      "Model: PNY CS900",
+      "Form Factor: 2.5-inch internal SSD",
+      "Interface: SATA 6.0Gb/s",
+      "Total Capacity: 256GB",
+      "Warranty: Limited 3-years"
+    ],
+    "featured": false,
+    "desc": "PNY CS900 120GB is the ideal solution for a mainstream solid state drive (SSD) upgrade from a hard disk drive (HDD). The CS900 delivers all the most sought after features at an excellent value, and is designed for an easy and cost-effective HDD replacement in the PC system to help realize faster boot times, quicker application launches and better overall system performance. With no moving parts, PNY CS900 is highly durable, less likely to fail, and supports up to 3 years of warranty.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 4,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "TwinMOS AlphaPro 1TB NVMe M.2 2280 SSD",
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/alphapro-1tb/alphapro-1tb-500x500.webp",
+    "price": 90,
+    "category": "Storage Device",
+    "categoryUrl": "storage",
+    "features": [
+      "Brand: TwinMOS",
+      "Model: AlphaPro",
+      "Form Factor: 2.5-inch internal SSD",
+      "Interface: SATA 6.0Gb/s",
+      "Total Capacity: 256GB",
+      "Warranty: Limited 3-years"
+    ],
+    "featured": false,
+    "desc": "The TwinMOS AlphaPro 1TB NVMe M.2 2280 SSD is an excellent choice for an NVMe-based solid-state drive (SSD) in an existing PC or MAC desktop or laptop computer. Upgrade your Computing Experience, Unleash the Super-Speed with TwinMOS AlphaPro 1TB NVMe M.2 SSD  with the best controller & 3D NAND FLASH. NVMe 2280 m.2 is designed to be high-performance and help realize faster booting times, quicker application launches, and better overall system performance. TwinMOS AlphaPro SSD featuring a powerful controller and exceptional transfer speeds, the M.2 SSD easily handles everyday computing tasks as well as demanding multimedia applications.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 4,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
     "name": "Xiaomi Mi 34 inch 144Hz FreeSync Curved Monitor",
     "image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/redmi-34-curved/redmi-34-curved-500x500.jpg",
     "price": 380,
@@ -308,6 +660,84 @@
         "reviewId": 3,
         "reviewerName": "Mr. Anik",
         "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Dell E1920H 18.5 Inch LED Monitor",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/dell/e1920h/e1920h-01-500x500.jpg",
+    "price": 210,
+    "category": "Monitor",
+    "categoryUrl": "monitor",
+    "features": [
+      "Brand: Dell",
+      "Model: E1920H",
+      "Resolution: WQHD (3440x1440)",
+      "Display: VA, 144Hz, 4ms",
+      "Ports: HDMI, DP, Audio Jack",
+      "Features: Low Blue Light"
+    ],
+    "featured": false,
+    "desc": "The Dell E1920H 18.5 Inch LED Monitor delivers a resolution of 1366x768 with a 600:1 Contrast ratio. This monitor offers a Refresh Rate of 60Hz. View your applications, spreadsheets, and more with 16.7 million colors, a color gamut of 85 percent, and a 90° / 65° horizontal/vertical viewing angle. This exclusive monitor is compatible with both legacy and non-legacy PCs via VGA and DisplayPort connectivity. This monitor also has 1 VGA port, 1 Display Port, and LED backlight technology with an Anti-glare screen coating. You can keep your desk clutter-free by mounting your VESA compatible monitor on the wall or using the optional Dell Single Monitor Arm, detailed below. This Dell E1920H monitor comes with 03 years of warranty.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 5,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 4,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 5,
+        "review": "Nice performance ..."
+      }
+    ],
+    "status": "In Stock"
+  },
+  {
+    "name": "Lenovo D20-20 19.5 inch LCD Monitor (HDMI, VGA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d20-20/lenovo-d20-20-01-500x500.jpg",
+    "price": 190,
+    "category": "Monitor",
+    "categoryUrl": "monitor",
+    "features": [
+      "Brand: Lenovo",
+      "Model: D20-20",
+      "Resolution: 1440 x 900 Pixels",
+      "Display: IPS, 144Hz, 4ms",
+      "Ports: HDMI, DP, Audio Jack",
+      "Features: Low Blue Light"
+    ],
+    "featured": false,
+    "desc": "The Lenovo D20-20 19.5-inch LCD Monitor boasts an In-Plane Switching screen, and the D20-19.45 20-inch and 1440 x 900 resolution complement each other beautifully for comfortable viewing. This Lenovo monitor has an 8-bit color depth and offers 16.7 million colors. Users can immediately get into the perfect position with its adjustable tilt stand and VESA wall-mounting, and a low blue light mode reduces eye weariness even after long hours. The D20-20 keeps everything connected by enabling universal connection to devices through HDMI or VGA interfaces. It features a 16:10 Aspect Ratio, a brightness of 250 cd/m2, and a contrast ratio of 1000:1. This monitor has 1 x HDMI 1.4 and 1x VGA connections. This Lenovo monitor has a response time of 4 milliseconds (Extreme mode) / 6 milliseconds (Normal mode) (Typical mode). The Lenovo D20-20 Monitor comes with a 03-years warranty.",
+
+    "reviews": [
+      {
+        "reviewId": 1,
+        "reviewerName": "Mr. Mostak",
+        "individualRating": 2,
+        "review": "Powerful .. "
+      },
+      {
+        "reviewId": 2,
+        "reviewerName": "Mr. Fahim",
+        "individualRating": 3,
+        "review": "Not Bad ..."
+      },
+      {
+        "reviewId": 3,
+        "reviewerName": "Mr. Anik",
+        "individualRating": 4,
         "review": "Nice performance ..."
       }
     ],

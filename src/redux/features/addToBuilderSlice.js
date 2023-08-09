@@ -14,23 +14,31 @@ const builderSlice = createSlice({
   name: "builder",
   initialState,
   reducers: {
-    addProcessor: (state, action) => {
-      state.processor = action.payload;
-    },
-    addMotherboard: (state, action) => {
-      state.motherboard = action.payload;
-    },
-    addRam: (state, action) => {
-      state.ram = action.payload;
-    },
-    addPowerSupply: (state, action) => {
-      state.powerSupply = action.payload;
-    },
-    addStorage: (state, action) => {
-      state.storage = action.payload;
-    },
-    addMonitor: (state, action) => {
-      state.monitor = action.payload;
+    addToBuilder: (state, action) => {
+      switch (action.payload.categoryUrl) {
+        case "processor":
+          state.processor = action.payload;
+          break;
+        case "motherboard":
+          state.motherboard = action.payload;
+          break;
+        case "ram":
+          state.ram = action.payload;
+          break;
+        case "power-supply-unit":
+          state.powerSupply = action.payload;
+          break;
+        case "storage":
+          state.storage = action.payload;
+          break;
+        case "monitor":
+          state.monitor = action.payload;
+          break;
+        default:
+          break;
+      }
+
+      state.total += action.payload.price
     },
 
     removeFromBuilder: (state, action) => {
@@ -44,7 +52,7 @@ const builderSlice = createSlice({
         case "ram":
           state.ram = null;
           break;
-        case "powerSupply":
+        case "power-supply-unit":
           state.powerSupply = null;
           break;
         case "storage":
@@ -56,17 +64,11 @@ const builderSlice = createSlice({
         default:
           break;
       }
+
+      state.total -= action.payload.price;
     },
   },
 });
 
-export const {
-  addProcessor,
-  addMotherboard,
-  addMonitor,
-  addPowerSupply,
-  addRam,
-  addStorage,
-  removeFromBuilder,
-} = builderSlice.actions;
+export const { addToBuilder, removeFromBuilder } = builderSlice.actions;
 export default builderSlice.reducer;

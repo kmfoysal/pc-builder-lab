@@ -1,13 +1,9 @@
 import {
-  addMonitor,
-  addMotherboard,
-  addPowerSupply,
-  addProcessor,
-  addRam,
-  addStorage,
-  removeFromBuilder,
+  addToBuilder,
+  removeFromBuilder
 } from "@/redux/features/addToBuilderSlice";
 import Image from "next/image";
+import Link from "next/link";
 import { useRouter } from "next/router";
 import { useDispatch } from "react-redux";
 
@@ -15,37 +11,15 @@ const PcBuilderCard = ({ builderItem }) => {
   const dispatch = useDispatch();
   const router = useRouter();
 
-  console.log(router);
-
   const handleAddToBuilder = (builderItem) => {
-    switch (builderItem?.categoryUrl) {
-      case "processor":
-        dispatch(addProcessor(builderItem));
-        break;
-      case "motherboard":
-        dispatch(addMotherboard(builderItem));
-        break;
-      case "ram":
-        dispatch(addRam(builderItem));
-        break;
-      case "power-supply-unit":
-        dispatch(addPowerSupply(builderItem));
-        break;
-      case "storage":
-        dispatch(addStorage(builderItem));
-        break;
-      case "monitor":
-        dispatch(addMonitor(builderItem));
-        break;
-      default:
-        break;
-    }
+  
+    dispatch(addToBuilder(builderItem))
 
     router.push("/pc-builder");
   };
 
   const handleRemove = (builderItem) => {
-    dispatch(removeFromBuilder(builderItem.categoryUrl));
+    dispatch(removeFromBuilder(builderItem));
   };
 
   return (
@@ -54,7 +28,7 @@ const PcBuilderCard = ({ builderItem }) => {
         <Image src={builderItem?.image} alt="img" width={150} height={150} />
       </figure>
       <div className="card-body overflow-hidden">
-        <h2 className="truncate text-xl font-semibold">{builderItem?.name}</h2>
+        <Link href={`/products/${builderItem?._id}`} className="truncate text-xl font-semibold">{builderItem?.name}</Link>
         <div className="badge badge-lg badge-primary badge-outline">
           {builderItem?.status}
         </div>

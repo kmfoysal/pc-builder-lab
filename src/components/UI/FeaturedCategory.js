@@ -41,7 +41,7 @@ const FeaturedCategory = () => {
     },
   ];
   return (
-    <div className="px-[10%] py-[5%] bg-indigo-50">
+    <div className="px-[10%] py-[5%]">
       <h3 className="text-center text-5xl font-semibold mb-10">
         Featured Category
       </h3>
